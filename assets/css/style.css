@@ -365,7 +365,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/121002.jpg");
+  background: url("../img/000666.jpg");
   position: relative;
 }
 
@@ -562,8 +562,8 @@ section {
 
 .text-block {
   position: absolute;
-  bottom: 200px;
-  right: 20px;
+  bottom: 40px;
+  right: 35px;
   background-color: black;
   opacity: .85;
   color: white;
@@ -575,8 +575,8 @@ section {
 
 .text-block1 {
   position: absolute;
-  bottom: 250px;
-  right: 20px;
+  bottom: 40px;
+  right: 25px;
   background-color: black;
   opacity: .85;
   color: white;
@@ -587,8 +587,8 @@ section {
 
 .text-block2 {
   position: absolute;
-  bottom: 335px;
-  right: 20px;
+  bottom: 40px;
+  right: 25px;
   background-color: black;
   opacity: .85;
   color: white;
@@ -599,8 +599,8 @@ section {
 
 .text-block3 {
   position: absolute;
-  bottom:160px;
-  right: 20px;
+  bottom: 40px;
+  right: 27px;
   background-color: black;
   opacity: .85;
   color: white;
@@ -610,8 +610,8 @@ section {
 }
 .text-block5 {
   position: absolute;
-  bottom:390px;
-  left: 20px;
+  bottom: 10px;
+  right: 120px;
   background-color: black;
   opacity: .85;
   color: white;
@@ -621,8 +621,8 @@ section {
 }
 .text-block8 {
   position: absolute;
-  bottom:340px;
-  left: 100px;
+  bottom: 40px;
+  right: 40px;
   background-color: black;
   opacity: .85;
   color: white;
@@ -632,8 +632,8 @@ section {
 }
 .text-block9 {
   position: absolute;
-  bottom:140px;
-  left: 100px;
+  bottom:105px;
+  left: 30px;
   background-color: black;
   opacity: .85;
   color: white;
@@ -729,9 +729,9 @@ section {
   font-size: 34px;
 }
 
-.why-us .content h4 {
-  font-size: 20px;
-  font-weight: 700;
+.why-us .content h5 {
+  font-size: 18px;
+  font-weight: 500;
   margin-top: 5px;
 }
 
@@ -771,7 +771,7 @@ section {
   display: block;
   position: relative;
   font-family: "Poppins", sans-serif;
-  font-size: 16px;
+  font-size: 28px;
   line-height: 24px;
   font-weight: 500;
   padding-right: 30px;
@@ -781,9 +781,20 @@ section {
 .why-us .accordion-list span {
   color: #7cc576;
   font-weight: 600;
-  font-size: 18px;
+  font-size: 24px;
   padding-right: 10px;
 }
+
+.accordion-list-1{
+  font-size: 884px;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+
+
+
 
 .why-us .accordion-list i {
   font-size: 24px;
@@ -1197,8 +1208,8 @@ section {
 
 .clients img {
   width: 50%;
-  -webkit-filter: grayscale(100);
-  filter: grayscale(100);
+  /* -webkit-filter: grayscale(100);
+  filter: grayscale(100); */
   transition: all 0.4s ease-in-out;
   display: inline-block;
   padding: 15px 0;
