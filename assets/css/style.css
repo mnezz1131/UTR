@@ -1483,6 +1483,14 @@ section {
   display: none;
 }
 
+#projects{
+  text-decoration: underline;
+  font-weight: bold;
+}
+#project-list{
+   margin: 0; 
+   padding: 0; 
+}
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
