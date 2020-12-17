@@ -608,6 +608,22 @@ section {
   padding-left: 20px;
   padding-right: 20px;
 }
+
+
+.text-block45{
+  position: absolute;
+  bottom: 40px;
+  right: 60px;
+  background-color: black;
+  opacity: .85;
+  color: white;
+  padding-top: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+
 .text-block5 {
   position: absolute;
   bottom: 10px;
@@ -621,8 +637,19 @@ section {
 }
 .text-block8 {
   position: absolute;
-  bottom: 40px;
+  bottom: 60px;
   right: 40px;
+  background-color: black;
+  opacity: .85;
+  color: white;
+  padding-top: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.text-block89 {
+  position: absolute;
+  bottom: 75px;
+  right: 60px;
   background-color: black;
   opacity: .85;
   color: white;
