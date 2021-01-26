@@ -483,8 +483,9 @@ h1, h2, h3, h4, h5, h6 {
       
   }
   #hero .rs-logo{
+    margin: auto;
    width: 100%;
-   /* margin-top: -75px; */
+   margin-top: -75px;
    height: auto;
   }
 
